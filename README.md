@@ -12,5 +12,6 @@ das ist nur ein test ...für github....blblblb
 <body bgcolor="#CCFFFF">
 <h1>Text, Verweise, Grafikreferenzen usw.</h1>
 <body style="background-color:#CCFFFF">
+
 </body>
 </html>
